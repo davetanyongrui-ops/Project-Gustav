@@ -188,7 +188,11 @@ body {
     color: #fff;
 }
 
-#link-telegram .link-text,
+#link-telegram-1 .link-text,
+#link-telegram-2 .link-text,
+#link-predik-1 .link-text,
+#link-predik-2 .link-text,
+#link-isian .link-text,
 #link-gbkb .link-text {
     font-family: 'Roboto', sans-serif;
     font-weight: 500;
